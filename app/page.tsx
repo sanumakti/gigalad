@@ -368,7 +368,11 @@ export default function ChadiusPage() {
         <p className="text-gray-300 text-lg mb-12">Be part of the $CHADIUS family</p>
 
         <div className="flex justify-center gap-6">
-          <Button size="lg" className="bg-black hover:bg-gray-800 text-white px-8 py-6 text-lg border border-gray-600">
+          <Button
+            size="lg"
+            className="bg-black hover:bg-gray-800 text-white px-8 py-6 text-lg border border-gray-600"
+            onClick={() => window.open("https://x.com/Basedchadius", "_blank")}
+          >
             <span className="mr-2 font-bold">X</span>Twitter
           </Button>
           <Button size="lg" className="bg-blue-500 hover:bg-blue-600 text-white px-8 py-6 text-lg">
