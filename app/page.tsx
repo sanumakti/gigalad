@@ -8,7 +8,7 @@ import { Copy, Check } from "lucide-react"
 
 export default function ChadiusPage() {
   const [copied, setCopied] = useState(false)
-  const contractAddress = "cooming soon"
+  const contractAddress = "0x00b74d0a899f7135b0430999ff83a2feb5cc578b"
 
   const copyToClipboard = async () => {
     await navigator.clipboard.writeText(contractAddress)
