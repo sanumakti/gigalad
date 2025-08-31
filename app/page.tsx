@@ -65,10 +65,9 @@ export default function ChadiusPage() {
         </h1>
 
         <p className="text-lg text-gray-300 mb-8 max-w-3xl mx-auto leading-relaxed">
-          CHADIUS isn't just a coin — it's a cultural movement disguised as financial chaos. Built on pure internet
-          energy, fueled by memes, and carried by a community that laughs louder than the market crashes, CHADIUS proves
-          you don't need utility when you've got virality. No promises, no guarantees, just moon-or-bust vibes with a
-          side of chaos. Welcome to the world's funniest, most unserious serious investment.
+          Born from pure sigma energy and financial chaos, CHADIUS emerges as the ultimate internet legend. This isn't
+          just another token — it's a cultural movement that laughs at FUD, roasts the market, and thrives on Base
+          Network where true on-chain warriors belong.
         </p>
 
         <div className="flex flex-wrap justify-center gap-4 mb-8">
@@ -340,25 +339,22 @@ export default function ChadiusPage() {
 
           <div className="space-y-6">
             <p className="text-gray-300 text-lg leading-relaxed">
-              CHADIUS isn't just a coin — it's a cultural movement disguised as financial chaos. Built on pure internet
-              energy, fueled by memes, and carried by a community that laughs louder than the market crashes, CHADIUS
-              proves you don't need utility when you've got virality.
+              Legend speaks of CHADIUS, forged in the depths of internet culture where sigma energy meets financial
+              rebellion. Rising from the ashes of market crashes and meme wars, this blue titan found his home on Base
+              Network — the ultimate battlefield for on-chain degenerates and diamond hands alike.
             </p>
 
             <p className="text-gray-300 text-lg leading-relaxed">
-              No promises, no guarantees, just moon-or-bust vibes with a side of chaos. Welcome to the world's funniest,
-              most unserious serious investment.
+              While paper hands panic and FUD spreads like wildfire, CHADIUS stands unmoved — a beacon of chaos in the
+              crypto storm. This isn't just another pump and dump; it's a movement that turns market fear into meme
+              fuel. Watch as CHADIUS makes his grand debut on Ape.Store, ready to flip the script on traditional
+              finance.
             </p>
 
-            <div className="grid grid-cols-2 gap-4 mt-8">
-              <Card className="bg-blue-900/30 border-blue-500/50 text-center p-4">
-                <div className="text-lg font-bold mb-2 text-blue-400">TROPHY</div>
-                <div className="font-semibold text-blue-400">Community First</div>
-              </Card>
-              <Card className="bg-black/30 border-gray-500/50 text-center p-4">
-                <div className="text-lg font-bold mb-2 text-gray-300">GLOBAL</div>
-                <div className="font-semibold text-gray-300">Global Movement</div>
-              </Card>
+            <div className="mt-8 p-6 bg-blue-900/20 border border-blue-500/30 rounded-lg">
+              <p className="text-blue-400 text-xl font-bold text-center">
+                "Built on Base, launched on Ape.Store, powered by pure meme energy — welcome to the CHADIUS revolution."
+              </p>
             </div>
           </div>
         </div>
